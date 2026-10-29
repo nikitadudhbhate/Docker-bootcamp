@@ -1,0 +1,1 @@
+print('App check initialized')
